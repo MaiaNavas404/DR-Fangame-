@@ -6,10 +6,9 @@
       {
         "id": "714c28ffa71056a0",
         "type": "tabs",
-        "dimension": 55.7632398753894,
         "children": [
           {
-            "id": "dd5c3ed50f342a32",
+            "id": "91e7bdbed77e1d69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Characters"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ee9368460d53f52d",
-        "type": "tabs",
-        "dimension": 44.23676012461059,
-        "children": [
-          {
-            "id": "e8e07ce5b1191aa9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -107,6 +89,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0f18b11ce99e091a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "5096376ee99deafc",
             "type": "leaf",
             "state": {
@@ -173,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 736.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +178,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd5c3ed50f342a32",
+  "active": "91e7bdbed77e1d69",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Chapters/Chapter 1.md",
+    "Cast/Acrobat.md",
     "Characters.md",
-    "Welcome.md"
+    "Setting.md",
+    "Story outline.md",
+    "Chapters/Chapter 0 (Prologue).md",
+    "Chapters/Chapter 6.md",
+    "Chapters/Chapter 5.md",
+    "Chapters/Chapter 4.md",
+    "Chapters/Chapter 3.md",
+    "Chapters/Chapter 2.md",
+    "Cast/Photographer.md",
+    "Cast/Locksmith.md",
+    "Cast/Lawyer.md",
+    "Cast/Surgeon.md",
+    "Cast/Hacker.md",
+    "Cast/Gardener.md",
+    "Cast/Electrician.md",
+    "Cast/Detective.md",
+    "Cast/Mastermind.md",
+    "Cast/Hitman.md",
+    "Cast/Cult Leader.md",
+    "Cast/Influencer.md",
+    "Cast/Chef.md",
+    "Cast/Bureaucrat (Cop).md",
+    "Cast/Monocam.md",
+    "Chapters",
+    "Cast",
+    "Untitled.base"
   ]
 }

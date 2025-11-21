@@ -1,0 +1,1 @@
+Working together with [[Cult Leader]] in [[Chapter 4]] to make a meal out of corpses
