@@ -6,6 +6,8 @@
 ## Personality
 - Hot headed 
 - dedicated
+- apathetic (in chapter 1) 
+- spreading misinformation (on accident)
 - 
 
 

@@ -1,5 +1,7 @@
 LEFT: 9
 
+motive: no motive (despair decease)
+
 In the aftermath of [[Chapter 3]], there's a lot of tension in the group. [[Monocam]] makes everyone form a duo, and they have to do bonding exercises together. 
 
 [[Chef]] and [[Cult Leader]] had been planning murder for a while. They serve their victim for lunch. Before the motive can even be announced (It was going to be at dinner). 

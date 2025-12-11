@@ -7,6 +7,7 @@ Executed in [[Chapter 6]] by exacting violence against the warden [[Monocam]].
 - impulsive
 - petty
 - hates to lose
+- friendly
 
 
 ## Role
